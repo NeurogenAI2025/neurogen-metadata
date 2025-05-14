@@ -1,0 +1,12 @@
+{
+  "name": "Neurogen",
+  "symbol": "NRG",
+  "description": "Neurogen is the AI-powered token of the future.",
+  "image": "https://i.imgur.com/OGYuJju.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [{ "uri": "https://i.imgur.com/OGYuJju.png", "type": "image/png" }],
+    "category": "image"
+  }
+}
