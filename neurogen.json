@@ -1,11 +1,23 @@
 {
   "name": "Neurogen",
   "symbol": "NRG",
-  "decimals": 9,
-  "image": "https://raw.githubusercontent.com/NeurogenAI2025/neurogen-metadata/main/logo.png",
   "description": "Neurogen (NRG) is the utility token powering the Terminal AI tools on Solana.",
-  "website": "https://nrgswap.app",
-  "twitter": "https://x.com/NeuroGenAi2025",
-  "telegram": "https://t.me/NeuroGenAi2026",
-  "tags": ["utility","ai","solana"]
+  "image": "https://raw.githubusercontent.com/NeurogenAI2025/neurogen-metadata/main/logo.png",
+  "external_url": "https://nrgswap.app",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/NeurogenAI2025/neurogen-metadata/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://nrgswap.app",
+    "twitter": "https://x.com/NeuroGenAi2025",
+    "telegram": "https://t.me/NeuroGenAi2026"
+  },
+  "tags": ["utility", "ai", "solana"]
 }
